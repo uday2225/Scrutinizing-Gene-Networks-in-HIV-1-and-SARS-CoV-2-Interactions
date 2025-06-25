@@ -35,10 +35,7 @@ This repository contains the full project report and data for a computational bi
 HIV_SARS_Drug_Target_Project/
 │
 ├── data/                 # Docking result CSVs
-├── figures/              # Network diagrams (add manually)
-├── notebooks/            # Analysis notebooks (optional)
 ├── report/               # Final project PDF
-├── references/           # Bibliography files (optional)
 └── README.md             # Project summary and instructions
 ```
 ## 🔍 Highlights
